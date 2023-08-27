@@ -1,6 +1,6 @@
 # url-shortener-web
 
-Front-end web app for personal URL shortener service
+Front-end web app for personal URL shortener service: http://128.199.224.93/url-shortener/
 
 ## Project setup
 
